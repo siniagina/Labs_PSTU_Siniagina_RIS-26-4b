@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Lab 0 test" << std::endl;
+    std::cout << "Welcome to the C++ program!" << std::endl;
     return 0;
 }
